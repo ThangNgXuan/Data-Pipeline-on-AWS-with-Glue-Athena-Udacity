@@ -26,4 +26,5 @@
 - Create 1 **Glue Job** for machine_learning_curated joining step_trainer_trusted and accelerometer_trusted.
 
 ### AWS Architecture
-![image](result_image\aws_architecture.gif)
+# Project Workflow
+<img src="result_image\aws_architecture.gif" class="img-responsive" alt=""> </div>
